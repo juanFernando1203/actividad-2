@@ -26,7 +26,7 @@ public class RegistroVisitas2 {
         System.out.print("Ingrese su peso en kg: ");
         double peso = scanner.nextDouble();
 
-        scanner.nextLine();
+        scanner.nextLine ();
 
 
         int totalVisitas = 0;
